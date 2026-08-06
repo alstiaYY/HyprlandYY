@@ -1,3 +1,3 @@
 # HyprlandYY
-> what's HyprlandYY
->> linuxのUIであるHyplandを改造したalstia版
+> ##what's HyprlandYY
+>> ###linuxのUIであるHyplandを改造したalstia版
